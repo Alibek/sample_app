@@ -15,5 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
-.idea
-config/database.yml
+/.idea
+/.idea/*
+/config/database.yml
