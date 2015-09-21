@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.3'
 gem 'pg'
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bcrypt'
 
 group :test do
   gem 'selenium-webdriver'
